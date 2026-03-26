@@ -96,5 +96,5 @@ docker compose -f docker-compose.yml up --build -d
 ---
 
 # Resultado final
-o modelo .json do dashbaord esté com o arquivo `modelo-dashboard-grafana.json`
+o modelo .json do dashbaord esté com o arquivo `modelo-dashboard-grafana.json`,(Foquei somente nas métricas, pretendo evoluir esse repositório com o tempo.)
 ![alt text](image.png)
