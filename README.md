@@ -98,8 +98,3 @@ docker compose -f docker-compose.yml up --build -d
 # Resultado final
 o modelo .json do dashbaord esté com o arquivo `modelo-dashboard-grafana.json`
 ![alt text](image.png)
-
-## Links rápidos
-
-- Backend: https://github.com/mt-amaral/api-base
-- Frontend: https://github.com/mt-amaral/app-base
